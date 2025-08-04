@@ -1,0 +1,254 @@
+🔍 SVM Accuracy: 0.4444
+              precision    recall  f1-score   support
+
+          CN       0.67      0.33      0.44         6
+          AD       0.43      0.86      0.57         7
+         FTD       0.00      0.00      0.00         5
+
+    accuracy                           0.44        18
+   macro avg       0.37      0.40      0.34        18
+weighted avg       0.39      0.44      0.37        18
+
+
+🔍 KNN Accuracy: 0.6111
+              precision    recall  f1-score   support
+
+          CN       0.56      0.83      0.67         6
+          AD       0.67      0.86      0.75         7
+         FTD       0.00      0.00      0.00         5
+
+    accuracy                           0.61        18
+   macro avg       0.41      0.56      0.47        18
+weighted avg       0.44      0.61      0.51        18
+
+
+🔍 LDA Accuracy: 0.5000
+              precision    recall  f1-score   support
+
+          CN       0.50      0.17      0.25         6
+          AD       0.71      0.71      0.71         7
+         FTD       0.33      0.60      0.43         5
+
+    accuracy                           0.50        18
+   macro avg       0.52      0.49      0.46        18
+weighted avg       0.54      0.50      0.48        18
+
+
+🔍 QDA Accuracy: 0.1667
+              precision    recall  f1-score   support
+
+          CN       0.25      0.33      0.29         6
+          AD       0.00      0.00      0.00         7
+         FTD       0.17      0.20      0.18         5
+
+    accuracy                           0.17        18
+   macro avg       0.14      0.18      0.16        18
+weighted avg       0.13      0.17      0.15        18
+
+
+🔍 LogisticRegression Accuracy: 0.5556
+              precision    recall  f1-score   support
+
+          CN       0.80      0.67      0.73         6
+          AD       0.56      0.71      0.62         7
+         FTD       0.25      0.20      0.22         5
+
+    accuracy                           0.56        18
+   macro avg       0.54      0.53      0.52        18
+weighted avg       0.55      0.56      0.55        18
+
+
+🔍 DecisionTree Accuracy: 0.3333
+              precision    recall  f1-score   support
+
+          CN       0.50      0.50      0.50         6
+          AD       0.33      0.29      0.31         7
+         FTD       0.17      0.20      0.18         5
+
+    accuracy                           0.33        18
+   macro avg       0.33      0.33      0.33        18
+weighted avg       0.34      0.33      0.34        18
+
+
+🔍 NaiveBayes Accuracy: 0.4444
+              precision    recall  f1-score   support
+
+          CN       1.00      0.33      0.50         6
+          AD       0.43      0.86      0.57         7
+         FTD       0.00      0.00      0.00         5
+
+    accuracy                           0.44        18
+   macro avg       0.48      0.40      0.36        18
+weighted avg       0.50      0.44      0.39        18
+
+
+🔍 RidgeClassifier Accuracy: 0.5556
+              precision    recall  f1-score   support
+
+          CN       0.67      0.33      0.44         6
+          AD       0.71      0.71      0.71         7
+         FTD       0.38      0.60      0.46         5
+
+    accuracy                           0.56        18
+   macro avg       0.59      0.55      0.54        18
+weighted avg       0.60      0.56      0.55        18
+
+
+🔍 LinearSVC Accuracy: 0.5000
+              precision    recall  f1-score   support
+
+          CN       0.75      0.50      0.60         6
+          AD       0.56      0.71      0.62         7
+         FTD       0.20      0.20      0.20         5
+
+    accuracy                           0.50        18
+   macro avg       0.50      0.47      0.48        18
+weighted avg       0.52      0.50      0.50        18
+
+
+🔍 SGDClassifier Accuracy: 0.5556
+              precision    recall  f1-score   support
+
+          CN       0.57      0.67      0.62         6
+          AD       0.62      0.71      0.67         7
+         FTD       0.33      0.20      0.25         5
+
+    accuracy                           0.56        18
+   macro avg       0.51      0.53      0.51        18
+weighted avg       0.53      0.56      0.53        18
+
+
+🔍 RandomForest Accuracy: 0.5000
+              precision    recall  f1-score   support
+
+          CN       0.43      0.50      0.46         6
+          AD       0.60      0.86      0.71         7
+         FTD       0.00      0.00      0.00         5
+
+    accuracy                           0.50        18
+   macro avg       0.34      0.45      0.39        18
+weighted avg       0.38      0.50      0.43        18
+
+
+🔍 GradientBoosting Accuracy: 0.3889
+              precision    recall  f1-score   support
+
+          CN       0.67      0.33      0.44         6
+          AD       0.44      0.57      0.50         7
+         FTD       0.17      0.20      0.18         5
+
+    accuracy                           0.39        18
+   macro avg       0.43      0.37      0.38        18
+weighted avg       0.44      0.39      0.39        18
+
+
+🔍 AdaBoost Accuracy: 0.5556
+              precision    recall  f1-score   support
+
+          CN       0.80      0.67      0.73         6
+          AD       0.50      0.86      0.63         7
+         FTD       0.00      0.00      0.00         5
+
+    accuracy                           0.56        18
+   macro avg       0.43      0.51      0.45        18
+weighted avg       0.46      0.56      0.49        18
+
+
+🔍 XGBoost Accuracy: 0.6111
+              precision    recall  f1-score   support
+
+          CN       0.60      0.50      0.55         6
+          AD       0.70      1.00      0.82         7
+         FTD       0.33      0.20      0.25         5
+
+    accuracy                           0.61        18
+   macro avg       0.54      0.57      0.54        18
+weighted avg       0.56      0.61      0.57        18
+
+
+🔍 LightGBM Accuracy: 0.5000
+              precision    recall  f1-score   support
+
+          CN       0.33      0.17      0.22         6
+          AD       0.54      1.00      0.70         7
+         FTD       0.50      0.20      0.29         5
+
+    accuracy                           0.50        18
+   macro avg       0.46      0.46      0.40        18
+weighted avg       0.46      0.50      0.43        18
+
+
+🔍 CatBoost Accuracy: 0.4444
+              precision    recall  f1-score   support
+
+          CN       0.60      0.50      0.55         6
+          AD       0.50      0.71      0.59         7
+         FTD       0.00      0.00      0.00         5
+
+    accuracy                           0.44        18
+   macro avg       0.37      0.40      0.38        18
+weighted avg       0.39      0.44      0.41        18
+
+
+🔍 BaggingClassifier Accuracy: 0.3889
+              precision    recall  f1-score   support
+
+          CN       0.00      0.00      0.00         6
+          AD       0.39      1.00      0.56         7
+         FTD       0.00      0.00      0.00         5
+
+    accuracy                           0.39        18
+   macro avg       0.13      0.33      0.19        18
+weighted avg       0.15      0.39      0.22        18
+
+
+🔍 Evaluating DL model: EEGNet
+EEGNet Accuracy: 0.9010
+              precision    recall  f1-score   support
+
+          CN       0.98      0.87      0.92     14266
+          AD       0.94      0.86      0.90     14266
+         FTD       0.81      0.97      0.89     14266
+
+    accuracy                           0.90     42798
+   macro avg       0.91      0.90      0.90     42798
+weighted avg       0.91      0.90      0.90     42798
+
+
+🔍 Evaluating DL model: DeepConvNet
+DeepConvNet Accuracy: 0.5438
+              precision    recall  f1-score   support
+
+          CN       1.00      0.22      0.37     14266
+          AD       0.82      0.41      0.55     14266
+         FTD       0.44      1.00      0.61     14266
+
+    accuracy                           0.54     42798
+   macro avg       0.75      0.54      0.51     42798
+weighted avg       0.75      0.54      0.51     42798
+
+
+🔍 Evaluating DL model: ShallowConvNet
+ShallowConvNet Accuracy: 0.9228
+              precision    recall  f1-score   support
+
+          CN       0.95      0.88      0.92     14266
+          AD       0.92      0.91      0.92     14266
+         FTD       0.90      0.97      0.93     14266
+
+    accuracy                           0.92     42798
+   macro avg       0.92      0.92      0.92     42798
+weighted avg       0.92      0.92      0.92     42798
+
+
+🔍 Evaluating DL model: EEGTransformer
+EEGTransformer Accuracy: 0.3333
+              precision    recall  f1-score   support
+
+          CN       0.00      0.00      0.00     14266
+          AD       0.00      0.00      0.00     14266
+         FTD       0.33      1.00      0.50     14266
+
+    accuracy                           0.33     42798
+   macro avg       0.11      0.33      0.17     42798
+weighted avg       0.11      0.33      0.17     42798
